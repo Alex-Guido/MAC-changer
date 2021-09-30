@@ -2,8 +2,11 @@
 A program to change the mac address for the given network interface.
 
 ## Usage
-![mac](https://user-images.githubusercontent.com/55252902/125828091-efbc6b38-ee22-4d09-8f60-1bdd8043be2a.png)
-![macchanger1](https://user-images.githubusercontent.com/55252902/135542001-32ffe6d4-7a03-471b-9144-aab6cba4db7f.png)
+![1](https://user-images.githubusercontent.com/55252902/135542240-84e930bb-1ffc-4061-bc24-5376198975de.png)
+![2](https://user-images.githubusercontent.com/55252902/135542243-e1a3b3d3-b080-41ed-83fc-98142ff0d440.png)
+
+
+
 
 
 
